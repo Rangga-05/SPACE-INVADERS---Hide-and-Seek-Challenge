@@ -35,10 +35,12 @@ Catatan Teknis
 
 Credits & Assets Reference
 Terima kasih kepada para kreator berikut atas aset berkualitas yang digunakan dalam pengembangan game ini:
+
 Graphics & Visuals:
 - Alien & UFO: Alien UFO Pack Kenney CC0 1.0
 - Player & Obstacles: Space Shooter Redux Kenney CC0 1.0
 - Background: Space Backgrounds by StarSoftware itch.io
+
 Audio & Sound Effects:
 - Backsound Music: Looping Retro Game Music by plasterbrain
 - Shoot Sound: SFX Laser Shoot 02 by bolkmar
