@@ -22,12 +22,10 @@ Cara Menjalankan via Terminal (PowerShell)
 Pastikan Anda berada di root direktori proyek (TMD_DPBO), lalu jalankan perintah berikut:
 1. Kompilasi Program
 Gunakan perintah ini untuk mengompilasi seluruh package:
-PowerShell
 javac -d out/production/TMD_DPBO -cp "lib/*" src/Main.java src/model/*.java src/model/entity/*.java src/model/repository/*.java src/view/*.java src/viewmodel/*.java
 2. Menjalankan Game
 Gunakan perintah ini untuk mengeksekusi program dengan menyertakan library database:
-PowerShell
-java -cp "out/production/TMD_DPBO;lib/mysql-connector-j-9.4.0.jar" Main
+java -cp "out/production/TMD_DPBO;lib/mysql-connector-j-9.4.0.jar;src" Main
 
 Catatan Teknis
 - Database Connector: Menggunakan com.mysql.cj.jdbc.Driver untuk mendukung pustaka MySQL Connector versi 8.0 ke atas.
